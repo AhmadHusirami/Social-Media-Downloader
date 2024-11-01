@@ -1,7 +1,5 @@
 # 🚀 Media Downloader
 
-![Media Downloader Cover](./public/cover-media-downloader.png)
-
 A powerful and user-friendly media downloader for various social media platforms. Download your favorite content with ease! 😎
 
 ## ✨ Features
@@ -39,6 +37,15 @@ If this project helps you, consider giving it a ⭐️! With enough support, we 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 About Me
+
+I'm Ahmad Said Husirami, a passionate **Full Stack Web Developer** and **Mobile Applications Developer** with a drive for creating impactful applications.
+
+- **Email**: [ahmadhusirami@gmail.com](mailto:ahmadhusirami@gmail.com)
+- **Phone**: +961-71 793 152
+- **Website**: [ahmad-husirami.vercel.app](https://ahmad-husirami.vercel.app/)
+
 
 ---
 
